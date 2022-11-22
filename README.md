@@ -12,7 +12,7 @@
 - :lock: Curently working at **Sector Alarm**
 - :toolbox: I use daily: `.py`, `.yaml`, `.sh`, `.tf`
 - :earth_africa: Trying to be more active in **Open Source** communities
-- :microscope: Sometimes I write tech stuffe here [medium-@lucasz](https://medium.com/@lucasz)
+- :microscope: Sometimes I write tech stuff here [medium-@lucasz](https://medium.com/@lucasz)
 - :envelope: Reach me [@lukasmlg](https://twitter.com/lukasmlg)
 
 
