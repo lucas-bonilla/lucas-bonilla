@@ -5,7 +5,7 @@
 ##### NOW
 
 - :sparkles: Trying to put everything into K8's
-- :tennis: Professional Padel player
+- :tennis: Padel player
 
 ##### BIO
 
